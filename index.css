@@ -1,0 +1,33 @@
+h2 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    display: flex;
+    justify-content: center;
+  }
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+  margin: 15px;
+  border-bottom: 1px solid;
+}
+
+#new-task-content {
+  margin-right: 10px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.delete {
+    margin: 5px;
+  }
+
+.btn-bottom {
+  margin-right: 5px; 
+  margin-top: 15px;
+  }
